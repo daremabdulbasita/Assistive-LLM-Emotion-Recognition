@@ -1,0 +1,10 @@
+tensorflow>=2.0.0
+keras
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+sentence-transformers
+ipykernel
