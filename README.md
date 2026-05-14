@@ -49,3 +49,4 @@ If you use this code or methodology in your research, please cite our work:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
+**DOI:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20179071.svg)](https://doi.org/10.5281/zenodo.20179071)
